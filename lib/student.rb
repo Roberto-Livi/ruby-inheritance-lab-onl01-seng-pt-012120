@@ -1,6 +1,6 @@
 class Student < User
 
   def initialize
-    @empty_knowledge = []
+    @knowledge = []
   end
 end
