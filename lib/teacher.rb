@@ -1,7 +1,7 @@
 class Teacher < User
 
   def teach
-    knowledge
+    'knowledge'
   end
     
 end
